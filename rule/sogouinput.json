@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "oth.str.mdt.qq.com",
+        "otheve.beacon.qq.com",
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "account.sogou.com",
+        "get.sogou.com",
+        "ime.sogou.com",
+        "macime.sogou.com",
+        "pinyin.sogou.com",
+        "sginput.qq.com",
+        "shouji.sogou.com"
+      ]
+    }
+  ],
+  "version": 1
+}
