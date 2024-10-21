@@ -3,13 +3,13 @@
     {
       "domain": [
         "oth.str.mdt.qq.com",
-        "otheve.beacon.qq.com",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ]
     },
     {
       "domain_suffix": [
         "account.sogou.com",
+        "beacon.qq.com",
         "get.sogou.com",
         "ime.sogou.com",
         "macime.sogou.com",
